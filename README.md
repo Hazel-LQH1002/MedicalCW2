@@ -46,3 +46,6 @@ Decode by convolutional (not transformer reason: transformers are unable to prop
 ## Next plan:
 One person need work on troditional 3D UNet.
 I would like to reproduce UNETR performance on lab. But due to bank holiday it will open on next Tuesday.
+
+## 3 SAM
+![Main idea](./figures/Mainidea.png)
